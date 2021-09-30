@@ -1,2 +1,2 @@
 # P1_2_Monografia
-Monoskop
+Michael Noll
